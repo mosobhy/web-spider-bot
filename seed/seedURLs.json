@@ -131,8 +131,31 @@
         "https://www.svb.com/"
     ],
     "ecology": [],
-    "science": [],
-    "technology": [],
+    "science": [
+        "https://www.sciencedaily.com/",
+        "https://www.sciencenews.org/",
+        "https://www.pbs.org/wgbh/nova/",
+        "https://www.howstuffworks.com/",
+        "https://www.nationalgeographic.com/",
+        "https://www.livescience.com/",
+        'https://geology.com/",
+        "https://futurism.com/",
+        "https://www.scientificamerican.com/",
+        "https://www.nature.com/",
+        "https://www.npr.org/sections/science/"
+    ],
+    "technology": [
+        "https://techcrunch.com/",
+        "https://thenextweb.com/",
+        "https://www.wired.com/",
+        "https://www.firstpost.com/tech/",
+        "https://www.theverge.com/tech",
+        "https://www.digitaltrends.com/",
+        "https://global.techradar.com/en-ae",
+        "https://www.macrumors.com/",
+        "https://venturebeat.com/",
+        "https://gigaom.com/"
+    ],
     "social": [],
     "sports": [],
     "religion": []
