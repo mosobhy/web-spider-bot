@@ -156,7 +156,41 @@
         "https://venturebeat.com/",
         "https://gigaom.com/"
     ],
-    "social": [],
-    "sports": [],
-    "religion": []
+    "social": [
+        "https://www.facebook.com/",
+        "https://twitter.com/",
+        "https://www.linkedin.com/",
+        "https://www.youtube.com/",
+        "https://www.pinterest.com/",
+        "https://www.tumblr.com/explore/trending?source=homepage_explore",
+        "https://www.reddit.com/",
+        "https://quora.com/",
+        "https://mix.com/",
+        "https://digg.com/"
+        
+    ],
+    "sports": [
+        "https://sports.yahoo.com/",
+        "https://www.90min.com/",
+        "https://www.nfl.com/",
+        "https://bleacherreport.com/",
+        "https://www.si.com/",
+        "https://www.foxsports.com/",
+        "https://www.cbssports.com/",
+        "https://www.mlb.com/",
+        "https://247sports.com/",
+        "https://deadspin.com/"
+    ],
+    "religion": [
+        "https://www.islamicfinder.org/",
+        "https://islamhouse.com/en/main/",
+        "https://hadithoftheday.com/",
+        "https://www.islamreligion.com/",
+        "https://messengerofgod.info/",
+        "https://www.1001inventions.com/",
+        "https://www.worldreligionnews.com/",
+        "https://religionnews.com/",
+        "https://www.getreligion.org/",
+        "https://therevealer.org/"
+    ]
 }
